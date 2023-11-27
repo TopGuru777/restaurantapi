@@ -52,7 +52,7 @@ The following mutations are available in the API:
 Clone this repositoryto get the source code:
 
 ```
-git clone https://github.com/basemax/RestaurantGraphqlApi
+git clone https://github.com/topguru777/restaurantapi
 ```
 
 ### Install dependencies
